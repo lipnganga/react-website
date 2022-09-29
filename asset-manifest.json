@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-website/static/css/main.4cd14946.css",
+    "main.js": "/react-website/static/js/main.50384328.js",
+    "static/media/dark-corduroy-fabric-textured-background (2).jpg": "/react-website/static/media/dark-corduroy-fabric-textured-background (2).052996a42df705eced24.jpg",
+    "static/media/me.jpg": "/react-website/static/media/me.865cdc7ee7786005aa04.jpg",
+    "static/media/portfolio2.png": "/react-website/static/media/portfolio2.726fee19512641e5c75f.png",
+    "static/media/portfolio3.png": "/react-website/static/media/portfolio3.d3f3a62b8e1c9f742051.png",
+    "static/media/portfolio1.png": "/react-website/static/media/portfolio1.3f0452e92a36443cb17d.png",
+    "static/media/CV.pdf": "/react-website/static/media/CV.a60cf250eb9f0ca3629e.pdf",
+    "static/media/avatar2.jpg": "/react-website/static/media/avatar2.32595d613d03d0079c9b.jpg",
+    "static/media/avatar4.jpg": "/react-website/static/media/avatar4.d58465266ff56f635ecd.jpg",
+    "static/media/avatar3.jpg": "/react-website/static/media/avatar3.6b536615c2a3017df030.jpg",
+    "static/media/avatar1.jpg": "/react-website/static/media/avatar1.e2beda3e89b43257f9b6.jpg",
+    "index.html": "/react-website/index.html",
+    "main.4cd14946.css.map": "/react-website/static/css/main.4cd14946.css.map",
+    "main.50384328.js.map": "/react-website/static/js/main.50384328.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cd14946.css",
+    "static/js/main.50384328.js"
+  ]
+}
